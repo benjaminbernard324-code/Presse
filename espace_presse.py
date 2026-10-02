@@ -1,4 +1,3 @@
-#!/usr/bin/env python3
 """Espace presse personnel : génère index.html (onglets par rubrique) depuis des flux RSS.
 Aucune installation requise (bibliothèque standard uniquement).
 Lancez-le chaque jour (voir tâche planifiée Windows) ou à la main.
